@@ -56,17 +56,17 @@ As can be seen from the images below, the network was able to learn the qualitat
 More results (including failed cases) are available in the "results" folder of this repository.  
 
 
-![ex1](https://github.com/vladimirprotsenko/DLS__project_2022/blob/main/results/imgs_results/XtoYandYtoX_epoch_itr_483.png?raw=true)
+![ex1](https://github.com/vladimirprotsenko/DLS_project_2022/blob/main/results/imgs_results/XtoYandYtoX_epoch_itr_483.png?raw=true)
 
-![ex2](https://github.com/vladimirprotsenko/DLS__project_2022/blob/main/results/imgs_results/XtoYandYtoX_epoch_itr_486.png?raw=true)
+![ex2](https://github.com/vladimirprotsenko/DLS_project_2022/blob/main/results/imgs_results/XtoYandYtoX_epoch_itr_486.png?raw=true)
 
-![ex3](https://github.com/vladimirprotsenko/DLS__project_2022/blob/main/results/imgs_results/XtoYandYtoX_epoch_itr_369.png?raw=true)
+![ex3](https://github.com/vladimirprotsenko/DLS_project_2022/blob/main/results/imgs_results/XtoYandYtoX_epoch_itr_369.png?raw=true)
 
-![ex2](https://github.com/vladimirprotsenko/DLS__project_2022/blob/main/results/imgs_results/XtoYandYtoX_epoch_itr_329.png?raw=true)
+![ex2](https://github.com/vladimirprotsenko/DLS_project_2022/blob/main/results/imgs_results/XtoYandYtoX_epoch_itr_329.png?raw=true)
 
-![ex2](https://github.com/vladimirprotsenko/DLS__project_2022/blob/main/results/imgs_results/XtoYandYtoX_epoch_itr_268.png?raw=true)
+![ex2](https://github.com/vladimirprotsenko/DLS_project_2022/blob/main/results/imgs_results/XtoYandYtoX_epoch_itr_268.png?raw=true)
 
-![ex2](https://github.com/vladimirprotsenko/DLS__project_2022/blob/main/results/imgs_results/XtoYandYtoX_epoch_itr_228.png?raw=true)
+![ex2](https://github.com/vladimirprotsenko/DLS_project_2022/blob/main/results/imgs_results/XtoYandYtoX_epoch_itr_228.png?raw=true)
 
 
 

@@ -1,3 +1,5 @@
+# Module for generating images from a test dataset
+
 import torch
 import os
 import sys

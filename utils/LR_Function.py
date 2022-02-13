@@ -1,3 +1,4 @@
+# Define the LR function: const=1 for epoch =< decay_epoch and decays linearly from 1 to zero otherwise 
 class LRPolicy():
     def __init__(self, epochs, decay_epoch, load_epoch):
         self.epochs = epochs

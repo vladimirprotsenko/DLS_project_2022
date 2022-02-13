@@ -1,3 +1,5 @@
+#Implementation of the Generator for the CycleGAN model.
+
 import torch
 import torch.nn as nn
 

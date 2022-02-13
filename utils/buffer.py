@@ -1,3 +1,4 @@
+#This module define buffer for images. 
 import torch
 import random 
 

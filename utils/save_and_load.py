@@ -1,3 +1,4 @@
+#This model implements loading and saving checkpoints
 import torch
 import sys
 import os

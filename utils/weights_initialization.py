@@ -1,3 +1,4 @@
+#Initializing weights from a normal distribution
 import torch
 import torch.nn as nn
 

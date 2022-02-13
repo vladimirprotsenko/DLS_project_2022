@@ -1,4 +1,4 @@
-#This module define dataset class. 
+#This module define dataset class
 import glob
 import os
 from PIL import Image

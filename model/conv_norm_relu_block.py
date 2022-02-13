@@ -1,3 +1,5 @@
+# Block Convolution-InstanceNorm-LeakyRelu. Auxiliary block for building the Discriminator and the Generator.
+
 import torch
 import torch.nn as nn
 
